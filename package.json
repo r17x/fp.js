@@ -1,0 +1,15 @@
+{
+  "name": "fp-js",
+  "description": "λ functional programming in JS",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@swc/core": "1.2.135",
+    "@swc/jest": "0.2.17",
+    "jest": "27.4.7"
+  }
+}
