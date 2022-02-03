@@ -1,11 +1,11 @@
 import { length } from "./length";
 
 /**
- * Turn an array into smaller array of the given size
+ * Turn an array into smaller arrays of the given size
  *
  * @param {Array} arr - An array or map of values.
  * @param {number} size - Size of the values inside a collection, if it exceeds the size, continue with a new collection
- * @return {Array} it can be function or return value of `f`
+ * @return {Array} - returns an array of smaller arrays of the given size
  * @example
  * ```javascript
  * const boy = ['cool', 'shirt'];
