@@ -4,12 +4,13 @@
 
 ## Motivation
 
-This purposed for learning functional programming (just that).
+This is purposed for learning functional programming (just that).
 
 ## Features
 
 - [Auto-Curry](./src/curry.js)
 - [Option](./src/Option.js)
+- [Chunk](./src/chunk.js)
 
 ## Tooling
 
